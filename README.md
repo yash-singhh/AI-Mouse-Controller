@@ -46,6 +46,9 @@ License:
 This project is licensed under the [LICENSE_NAME] License - see the LICENSE.md file for details.
 
 Acknowledgments:
+
 Mediapipe
+
 PyAutoGUI
+
 OpenCV
